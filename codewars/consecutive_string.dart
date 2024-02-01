@@ -1,9 +1,9 @@
 class Solution {
-  String longestConsec(strarr, k) {
+  String longestConsec(List<String> strarr, k) {
     if (k <= 0 || strarr.length == 0 || k > strarr.length) return '';
     var longest = '';
     var temp = '';
-    List<String> basis = strarr;
+    List<String> basis = List.from(strarr);
     while (basis.length >= k){
       var tempLong = '';
       temp = basis[0];
