@@ -18,6 +18,8 @@ int oddOnly(List<int> nums, int Function(List<int>) filter){
   return total;
 }
 
+var sayGood = () => print('void function but anonym');
+
 void getHello() => print('Hello world');
 
 void main(){
@@ -44,4 +46,5 @@ void main(){
     }));
 
   getHello();
+  sayGood();
 }

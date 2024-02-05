@@ -22,10 +22,10 @@ void main(){
   print(total);
 
   var person = Customer('Jonathan Doe Harari');
-  print(person.firstName + " " + person.lastName);
+  print('${person.firstName} ${person.lastName}');
 
   var person1 = Customer('Kings Grey Ryan');
   var person2 = Customer('Bella Jade');
-  print(person1.firstName + " " + person1.lastName);
+  print('${person1.firstName} ${person1.lastName}');
   print(total); 
 }
