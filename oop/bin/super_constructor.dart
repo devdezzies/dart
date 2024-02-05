@@ -12,7 +12,9 @@ class Manager {
 
 class VicePresident extends Manager {
 
-  VicePresident(String name, [int? age]) : super(name, age);  // a redirecting constructor can't have body, unless it redirects to a parent object
+  VicePresident(String name, [int? age]) : super(name, age);
+  // a redirecting constructor can't have body, unless it redirects to a
+  // parent object
   
 }
 

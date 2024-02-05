@@ -31,7 +31,7 @@ extension Profile on Person { // an extension to add property to an existing cla
 void main(){
   var person = Person(); // makes the object's field can be modified
   // final person = Person(); 
-  var person1 = Person();
+  //var person1 = Person();
   // Person person2 = person.name;
 
   print(person.name);

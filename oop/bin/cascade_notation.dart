@@ -2,7 +2,6 @@ class User {
   String? username, name, email;
 }
 
-
 void main() {
   var user1 = User();
   // Interacting with the object's fields manually
@@ -16,10 +15,8 @@ void main() {
   var user2 = User()
     ..username = 'DeppThePirate'
     ..name = 'Depp'
+//  ?..nullableField = ...
     ..email = 'thedeppwater@land.com';
 
   print('${user2.username} ${user2.name} ${user2.email}');
-
-  
 }
-
