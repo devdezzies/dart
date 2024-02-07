@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="672b75f9-8b53-49ae-a7fa-21ac9f350dc1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/enum.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multiples.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bestTravel.dart" beforeDir="false" afterPath="$PROJECT_DIR$/best_travel.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/enum.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parityFinder.dart" beforeDir="false" afterPath="$PROJECT_DIR$/parity_finder.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +37,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Dart Command Line App.enum.dart.executor": "Run",
+    "Dart Command Line App.multiples.dart.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "dart.analysis.tool.window.visible": "false",
@@ -59,6 +63,7 @@
       <updated>1707109778253</updated>
       <workItem from="1707109779333" duration="52000" />
       <workItem from="1707190610455" duration="7366000" />
+      <workItem from="1707292174161" duration="1727000" />
     </task>
     <servers />
   </component>
