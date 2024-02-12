@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="672b75f9-8b53-49ae-a7fa-21ac9f350dc1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/consonant.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/palindrome.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pangram.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../generic/bin/object.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diagonal.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mexican_wave.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,8 +35,10 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Dart Command Line App.consonant.dart.executor&quot;: &quot;Run&quot;,
+    &quot;Dart Command Line App.diagonal.dart.executor&quot;: &quot;Run&quot;,
     &quot;Dart Command Line App.enum.dart.executor&quot;: &quot;Run&quot;,
     &quot;Dart Command Line App.hamming_code_first.dart.executor&quot;: &quot;Run&quot;,
+    &quot;Dart Command Line App.mexican_wave.dart.executor&quot;: &quot;Run&quot;,
     &quot;Dart Command Line App.multiples.dart.executor&quot;: &quot;Run&quot;,
     &quot;Dart Command Line App.palindrome.dart.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
@@ -70,6 +70,8 @@
       <workItem from="1707370217152" duration="10311000" />
       <workItem from="1707535726484" duration="4851000" />
       <workItem from="1707547526155" duration="31000" />
+      <workItem from="1707641235405" duration="12623000" />
+      <workItem from="1707709600138" duration="356000" />
     </task>
     <servers />
   </component>
