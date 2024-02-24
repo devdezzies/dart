@@ -1,4 +1,4 @@
-abstract class Car {
+abstract interface class Car {
   // it's an interface (acts like a contract)
   String brand = "";
 
@@ -9,7 +9,7 @@ abstract class Car {
   }
 }
 
-class BavarianMotor implements Car {
+class BavarianMotor implements Car { // also this makes BavarianMotor a subtype of class Car
   // this object is re-declaring all of the properties that the object Car has
   String brand = 'BMW i7';
 
@@ -26,4 +26,6 @@ void main() {
   var bmwCar = BavarianMotor();
   print(bmwCar.brand);
   bmwCar.drive();
+
+  print(bmwCar is Car);
 }

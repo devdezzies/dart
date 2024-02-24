@@ -5,9 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="672b75f9-8b53-49ae-a7fa-21ac9f350dc1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/diagonal.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mexican_wave.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basis.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daily.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forth.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linked_list.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luhn.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/palindrome.dart" beforeDir="false" afterPath="$PROJECT_DIR$/palindrome.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart_collection/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dart_collection/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart_collection/lib/hash_map.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart_collection/lib/hash_map.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart_collection/lib/hash_set.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart_collection/lib/hash_set.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop/bin/inheritance.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../oop/bin/inheritance.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop/bin/interface.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../oop/bin/interface.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,30 +43,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Dart Command Line App.consonant.dart.executor&quot;: &quot;Run&quot;,
-    &quot;Dart Command Line App.diagonal.dart.executor&quot;: &quot;Run&quot;,
-    &quot;Dart Command Line App.enum.dart.executor&quot;: &quot;Run&quot;,
-    &quot;Dart Command Line App.hamming_code_first.dart.executor&quot;: &quot;Run&quot;,
-    &quot;Dart Command Line App.mexican_wave.dart.executor&quot;: &quot;Run&quot;,
-    &quot;Dart Command Line App.multiples.dart.executor&quot;: &quot;Run&quot;,
-    &quot;Dart Command Line App.palindrome.dart.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/bolth/dev/dart/codewars&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Dart Command Line App.basis.dart.executor": "Run",
+    "Dart Command Line App.bookseller.dart.executor": "Run",
+    "Dart Command Line App.consecutive.dart.executor": "Run",
+    "Dart Command Line App.consonant.dart.executor": "Run",
+    "Dart Command Line App.daily.dart.executor": "Run",
+    "Dart Command Line App.diagonal.dart.executor": "Run",
+    "Dart Command Line App.enum.dart.executor": "Run",
+    "Dart Command Line App.forth.dart.executor": "Run",
+    "Dart Command Line App.hamming_code_first.dart.executor": "Run",
+    "Dart Command Line App.hello.dart.executor": "Run",
+    "Dart Command Line App.linked_list.dart.executor": "Run",
+    "Dart Command Line App.luhn.dart.executor": "Run",
+    "Dart Command Line App.mexican_wave.dart.executor": "Run",
+    "Dart Command Line App.multiples.dart.executor": "Run",
+    "Dart Command Line App.palindrome.dart.executor": "Run",
+    "Dart Command Line App.radix.dart.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/bolth/dev/dart/dart_unit_test",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "show.migrate.to.gradle.popup": "false",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -72,6 +93,23 @@
       <workItem from="1707547526155" duration="31000" />
       <workItem from="1707641235405" duration="12623000" />
       <workItem from="1707709600138" duration="356000" />
+      <workItem from="1708069552459" duration="2405000" />
+      <workItem from="1708140843983" duration="7000" />
+      <workItem from="1708140917081" duration="641000" />
+      <workItem from="1708162967737" duration="13554000" />
+      <workItem from="1708232576729" duration="5290000" />
+      <workItem from="1708246672281" duration="9000" />
+      <workItem from="1708252789224" duration="40000" />
+      <workItem from="1708253272401" duration="1535000" />
+      <workItem from="1708308429156" duration="315000" />
+      <workItem from="1708423110258" duration="90000" />
+      <workItem from="1708532287658" duration="704000" />
+      <workItem from="1708589789600" duration="10000" />
+      <workItem from="1708590223088" duration="10000" />
+      <workItem from="1708597215697" duration="2161000" />
+      <workItem from="1708618442103" duration="2626000" />
+      <workItem from="1708680313269" duration="3377000" />
+      <workItem from="1708757788379" duration="17000" />
     </task>
     <servers />
   </component>

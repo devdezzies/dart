@@ -10,4 +10,5 @@ void main() {
     return true;
   }
   print(isPalindrome('kodok', 0));
+  print(isPalindrome("Indonesia", 0));
 }

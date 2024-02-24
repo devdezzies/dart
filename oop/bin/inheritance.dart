@@ -18,6 +18,7 @@ void main(){
     ..fruitName = 'Banana'
     ..amount = 17;
   fruit1.fruitsCategory();
+  print(fruit1);
 
   var fruitFromParent = FavoriteFruits()
     ..fruitName = 'Strawberry'
