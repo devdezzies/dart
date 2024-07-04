@@ -6,7 +6,6 @@ int sum(int a, int b){
   return a + b;
 }
 
-
 void main(){
   test('sayHello test with matcher', (){
     expect(sayHello('Dart'), startsWith('Hello'));
@@ -20,6 +19,4 @@ void main(){
     expect(sum(1,2), greaterThan(2));
     expect(sum(1,2), lessThan(5));
   });
-
-
 }

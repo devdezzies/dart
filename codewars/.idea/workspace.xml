@@ -5,20 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="672b75f9-8b53-49ae-a7fa-21ac9f350dc1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/basis.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forth.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linked_list.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/luhn.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/armstrong.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/highest.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/word.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/palindrome.dart" beforeDir="false" afterPath="$PROJECT_DIR$/palindrome.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dart_collection/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dart_collection/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dart_collection/lib/hash_map.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart_collection/lib/hash_map.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dart_collection/lib/hash_set.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart_collection/lib/hash_set.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../oop/bin/inheritance.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../oop/bin/inheritance.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../oop/bin/interface.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../oop/bin/interface.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basis.dart" beforeDir="false" afterPath="$PROJECT_DIR$/basis.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart_unit_test/test/setup_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart_unit_test/test/setup_test.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +37,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Dart Command Line App.armstrong.dart.executor": "Run",
     "Dart Command Line App.basis.dart.executor": "Run",
     "Dart Command Line App.bookseller.dart.executor": "Run",
     "Dart Command Line App.consecutive.dart.executor": "Run",
@@ -55,12 +48,14 @@
     "Dart Command Line App.forth.dart.executor": "Run",
     "Dart Command Line App.hamming_code_first.dart.executor": "Run",
     "Dart Command Line App.hello.dart.executor": "Run",
+    "Dart Command Line App.highest.dart.executor": "Run",
     "Dart Command Line App.linked_list.dart.executor": "Run",
     "Dart Command Line App.luhn.dart.executor": "Run",
     "Dart Command Line App.mexican_wave.dart.executor": "Run",
     "Dart Command Line App.multiples.dart.executor": "Run",
     "Dart Command Line App.palindrome.dart.executor": "Run",
     "Dart Command Line App.radix.dart.executor": "Run",
+    "Dart Command Line App.word.dart.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "dart.analysis.tool.window.visible": "false",
@@ -110,6 +105,16 @@
       <workItem from="1708618442103" duration="2626000" />
       <workItem from="1708680313269" duration="3377000" />
       <workItem from="1708757788379" duration="17000" />
+      <workItem from="1708789005482" duration="2378000" />
+      <workItem from="1708818474252" duration="4454000" />
+      <workItem from="1709043406901" duration="43000" />
+      <workItem from="1709173897210" duration="3629000" />
+      <workItem from="1709195665051" duration="507000" />
+      <workItem from="1709272533455" duration="259000" />
+      <workItem from="1709273247502" duration="2402000" />
+      <workItem from="1709431889998" duration="634000" />
+      <workItem from="1710034751525" duration="15000" />
+      <workItem from="1710036000668" duration="5202000" />
     </task>
     <servers />
   </component>

@@ -11,6 +11,7 @@ void main(){
     test('string first', (){
       data = '$data Cameron';
       expect(data, startsWith('Johny'));
+      expect(data, equalsIgnoringCase('johny cameron'));
     });
 
     test('ends with', (){

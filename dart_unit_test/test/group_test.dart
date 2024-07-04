@@ -1,5 +1,3 @@
-import 'dart:math';
-
 import 'package:test/test.dart';
 
 int sum(int a, int b) {

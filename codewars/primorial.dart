@@ -17,5 +17,6 @@ int numPrimorial(int n) {
 
 void main(){
   print(numPrimorial(3));
+  print(numPrimorial(10));
   print(numPrimorial(5));
 }
