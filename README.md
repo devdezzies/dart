@@ -1,1 +1,1 @@
-A comprehensive notes to Dart Programming Language
+A comprehensive collection of notes on the Dart Programming Language
