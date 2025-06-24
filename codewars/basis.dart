@@ -5,7 +5,7 @@ void baseLoop(int rad, int number){
 }
 
 void main(){
-  var message = "kontol rezaa dan ini bukan gw yang tulis yaa".codeUnits.map((e) => e.toRadixString(2).padLeft(8, "0")).reduce((value, element) => value + element);
+  var message = "haloo".codeUnits.map((e) => e.toRadixString(2).padLeft(8, "0")).reduce((value, element) => value + element);
   var decrypted = "";
 
   var messageList = message.split('').toList();
